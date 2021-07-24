@@ -1,24 +1,5 @@
-# README
+# 時間がかかったこと
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- profile_image が未定義のところでかなり時間を取られてしまった
+- エラー文を一行ずつ丁寧に見ていくことが大事。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
